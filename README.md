@@ -1,34 +1,15 @@
-# Cyber-Ambitions
+# Hi, I'm Lisa 👋
 
-Cybersecurity tools, OSINT workflows, and Linux automation labs.
+IT & Cybersecurity Student | Linux | Troubleshooting | OSINT  
+Avid Ambitions Cyber
 
-## 🎯 Purpose
+## About Me
+I am currently studying IT and Cybersecurity and building hands-on skills in Linux, troubleshooting, and technical support.
 
-This repository documents my hands-on learning and experimentation in cybersecurity, open-source intelligence (OSINT), and Linux-based automation. The goal is to build practical investigative workflows and technical analysis skills.
+## Current Focus
+- Linux fundamentals  
+- Command-line skills  
+- Cybersecurity basics  
 
-## 🔧 Areas of Focus
-
-- OSINT investigation workflows
-- Linux command-line automation
-- Cybersecurity tools and lab testing
-- Data collection and analysis
-
-## 🧰 Tools & Technologies
-
-- Kali Linux
-- Sherlock
-- SpiderFoot
-- theHarvester
-- Bash scripting
-- Git/GitHub
-
-## 📚 Learning Goals
-
-- Advanced Linux CLI
-- Automation scripting
-- OSINT analysis techniques
-- Cybersecurity investigation workflows
-
-## 🚧 Work in Progress
-
-This repository is continuously evolving as part of my cybersecurity and IT training journey.
+## Links
+LinkedIn: https://www.linkedin.com/in/lisahollingsworth28
