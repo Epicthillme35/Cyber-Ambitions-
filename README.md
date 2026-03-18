@@ -12,4 +12,4 @@ I am currently studying IT and Cybersecurity and building hands-on skills in Lin
 - Cybersecurity basics  
 
 ## Links
-LinkedIn: https://www.linkedin.com/in/lisahollingsworth28
+LinkedIn: https://www.linkedin.com/in/lisa--hollingsworth
